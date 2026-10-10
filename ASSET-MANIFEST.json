@@ -1,0 +1,29 @@
+{
+  "scope": "Included asset bytes; see ASSET-LICENCES.md for licence scope and exceptions.",
+  "assets": [
+    {
+      "file": "index.html#embedded-at-200",
+      "mime": "image/x-icon",
+      "bytes": 892,
+      "sha256": "e5d4929a37c22c787c576abd6df64acd4b7478fc7c5931918d45e76387d28dd5"
+    },
+    {
+      "file": "index.html#embedded-at-21704",
+      "mime": "image/png",
+      "bytes": 181245,
+      "sha256": "a84f28067028798ee02435b12ca71afed56cac9fc744d6417ab9018d4f78c6ba"
+    },
+    {
+      "file": "index.html#embedded-at-283230",
+      "mime": "image/png",
+      "bytes": 2829274,
+      "sha256": "b924029bc588ca2eb901f9c634a4ab71bb796a4bb6d5cf8013e034baa06496a6"
+    },
+    {
+      "file": "index.html#embedded-at-4058873",
+      "mime": "image/png",
+      "bytes": 898121,
+      "sha256": "d399661c7eaa5f10928ab188938651740b2e78875f0813f9d72b6b241837749e"
+    }
+  ]
+}
